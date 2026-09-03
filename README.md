@@ -4,7 +4,9 @@
 
 Building AI-powered SaaS products from Loganville, Georgia 🇺🇸
 
----
+🛡️ **GRC & IT Audit** — AI governance (NIST AI RMF, ISO/IEC 42001), ISO 27001, NIST 800-171.
+Five worked assessments: [grc-portfolio](https://github.com/mtmultiservicesllc-jpg/grc-portfolio)
+
 
 ## 🎯 What I'm Building
 
@@ -71,6 +73,5 @@ Just reach out — I value **transparency with the right people** over public di
 - 📧 **Email:** mtballo90@gmail.com
 - 🏢 **Location:** Loganville, Georgia (Atlanta metro)
 
----
 
 *⚡ Open to: Federal R&D partnerships · SBIR subcontracting · AI development contracts · Advisory roles*
