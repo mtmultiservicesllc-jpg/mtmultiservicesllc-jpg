@@ -1,12 +1,10 @@
  # 👋 Hi, I'm Moussa Toure
-
-🚀 **Tech-Enabled Government Services Founder** | AI-Augmented Full-Stack Developer
+ **GRC & IT Audit** — AI governance (NIST AI RMF, ISO/IEC 42001), ISO 27001, NIST 800-171.
+Five worked assessments: [grc-portfolio](https://github.com/mtmultiservicesllc-jpg/grc-portfolio)
+ 
+ **Tech-Enabled Government Services Founder** | AI-Augmented Full-Stack Developer
 
 Building AI-powered SaaS products from Loganville, Georgia 🇺🇸
-
-🛡️ **GRC & IT Audit** — AI governance (NIST AI RMF, ISO/IEC 42001), ISO 27001, NIST 800-171.
-Five worked assessments: [grc-portfolio](https://github.com/mtmultiservicesllc-jpg/grc-portfolio)
-
 
 ## 🎯 What I'm Building
 
