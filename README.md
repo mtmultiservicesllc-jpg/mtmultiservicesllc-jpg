@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Moussa Toure
  **GRC & IT Audit** — AI governance (NIST AI RMF, ISO/IEC 42001), ISO 27001, NIST 800-171.
-Five worked assessments: [grc-portfolio](https://github.com/mtmultiservicesllc-jpg/grc-portfolio)
+Six worked assessments, including a full internal audit report: [grc-portfolio](https://github.com/mtmultiservicesllc-jpg/grc-portfolio)
  
  **Tech-Enabled Government Services Founder** | AI-Augmented Full-Stack Developer
 
